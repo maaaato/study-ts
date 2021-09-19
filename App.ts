@@ -9,3 +9,5 @@ export class Util{
         return '1.0.0';
     }
 }
+
+console.log("aaa");

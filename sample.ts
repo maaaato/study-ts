@@ -41,7 +41,7 @@ greet("hoge");
 // hoge();
 
 // 省略可能な引数
-function showTime(time?: Date): string {
+function showTime(time: Date): string {
     return '現在時刻:' + time.toLocaleString();
 }
 
